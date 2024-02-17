@@ -596,7 +596,7 @@ function App() {
         <div className="card-container">
           <div className="item-card">
             <div className="item-name">Car</div>
-            <img src="/porsche.png" alt="" className="porsche-img" />
+            <img src="./porsche.png" alt="" className="porsche-img" />
             <div className="bid-btn-container">
               <button className="bid-btn" onClick={bidCar}>
                 Bid
@@ -608,7 +608,7 @@ function App() {
           </div>
           <div className="item-card">
             <div className="item-name">Phone</div>
-            <img src="/iphone.png" alt="" className="iphone-img" />
+            <img src="./iphone.png" alt="" className="iphone-img" />
             <div className="bid-btn-container">
               <button className="bid-btn" onClick={bidPhone}>
                 Bid
@@ -620,7 +620,7 @@ function App() {
           </div>
           <div className="item-card">
             <div className="item-name">Computer</div>
-            <img src="/macbook.png" alt="" className="macbook-img" />
+            <img src="./macbook.png" alt="" className="macbook-img" />
             <div className="bid-btn-container">
               <button className="bid-btn" onClick={bidComputer}>
                 Bid
