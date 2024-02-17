@@ -597,7 +597,7 @@ function App() {
           <div className="item-card">
             <div className="item-name">Car</div>
             <img
-              src="public\porsche.png"
+              src="src\assets\porsche.png"
               alt="porsche-img"
               className="porsche-img"
             />
@@ -614,7 +614,7 @@ function App() {
           <div className="item-card">
             <div className="item-name">Phone</div>
             <img
-              src="public\iphone.png"
+              src="src\assets\iphone.png"
               alt="iphone-img"
               className="iphone-img"
             />
@@ -630,7 +630,7 @@ function App() {
           <div className="item-card">
             <div className="item-name">Computer</div>
             <img
-              src="public\macbook.png"
+              src="src\assets\macbook.png"
               alt="macbook-img"
               className="macbook-img"
             />
